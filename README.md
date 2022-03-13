@@ -3,6 +3,7 @@
 
 ## Dashboard Financeiro
 
+Utilização do 'what-if parameter' para simular a variação do lucro.
 
 
 Link: https://bit.ly/Dashboard_Financeiro_DS
