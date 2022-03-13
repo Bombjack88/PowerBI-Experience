@@ -15,3 +15,10 @@ Link: https://bit.ly/Dashboard_Financeiro_DS
 ![image](https://user-images.githubusercontent.com/10911021/158082727-cf70a9a2-6a34-4b46-a05c-de9629cae986.png)
 
 
+## Dashborad Logística
+
+Link:  https://bit.ly/Dashboard_logistica
+
+![image](https://user-images.githubusercontent.com/10911021/158083250-1c2fc25e-8981-4a4c-9930-2dd906a8c3fe.png)
+
+![image](https://user-images.githubusercontent.com/10911021/158083261-9f1629c5-df8f-47e7-ba54-047f3e1ced7f.png)
