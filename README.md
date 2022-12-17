@@ -6,7 +6,7 @@
 Utilização do 'what-if parameter' para simular a variação do lucro.
 
 
-Link: https://bit.ly/Dashboard_Financeiro_DS
+Link: https://bit.ly/Analise_Financeira_What_if
 
 ![image](https://user-images.githubusercontent.com/10911021/158082685-d02bb163-7e4d-41d6-9c24-ab44dd7b9007.png)
 
@@ -17,7 +17,7 @@ Link: https://bit.ly/Dashboard_Financeiro_DS
 
 ## Dashborad Logística
 
-Link:  https://bit.ly/Dashboard_logistica
+Link:  https://bit.ly/Analise_logistica
 
 ![image](https://user-images.githubusercontent.com/10911021/158083250-1c2fc25e-8981-4a4c-9930-2dd906a8c3fe.png)
 
@@ -25,7 +25,7 @@ Link:  https://bit.ly/Dashboard_logistica
 
 ## Dasboard Análise Financeira
 
-Link: https://bit.ly/Dashboard_Analise_Financeira
+Link: https://bit.ly/Analise_Financeira_Fluxo_Caixa
 
 ![image](https://user-images.githubusercontent.com/10911021/158083535-0a99b784-522e-49a3-bbe0-bf2f892c5301.png)
 
